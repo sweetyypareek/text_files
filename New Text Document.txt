@@ -3,4 +3,4 @@ what r u doing
 clone..
 differences
 commit..
-fetching
+fetching..
